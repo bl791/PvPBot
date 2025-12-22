@@ -2,7 +2,7 @@
 
 **[Join the Discord](https://discord.gg/JmqmBGKz7z) to ask questions, get early access to the latest checkpoints, and try out the hosted server!**
 
-Can RL be used to teach AI PvP Minecraft?
+PvPBot is a small Transformer-based model aimed at engaging in Minecraft PvP. It is trained from scratch with no human data involved (trained purely on self-play). The first version of the model has ~4 million parameters and takes the last 16 ticks into account.
 
 **Features:**
 
