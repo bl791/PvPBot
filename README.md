@@ -1,5 +1,7 @@
 # PvPBot
 
+**[Join the Discord](https://discord.gg/JmqmBGKz7z) to ask questions, get early access to the latest checkpoints, and try out the hosted server!**
+
 Can RL be used to teach AI PvP Minecraft?
 
 **Features:**
