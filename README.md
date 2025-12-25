@@ -6,7 +6,7 @@ A preview of the current state of the model... thanks to `6to7` for beta testing
 
 <video src="https://github.com/user-attachments/assets/03ed276a-bd1e-436c-a622-d35f1452393f"></video>
 
-PvPBot is a small Transformer-based model aimed at engaging in Minecraft PvP. It is trained from scratch with no human data involved (trained purely on self-play). The first version of the model has ~4 million parameters and takes the last 16 ticks into account.
+PvPBot is a small Transformer-based model aimed at engaging in Minecraft PvP. It is trained from scratch with no human data involved (trained purely on self-play). The first version of the model has ~4 million parameters and takes the last 16 ticks into account. Soon it will support Crystal PvP!
 
 **Features:**
 
